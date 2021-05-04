@@ -1,6 +1,6 @@
-Query all columns for a city in CITY with the ID 1661.
+#Query all columns for a city in CITY with the ID 1661.
 
-The CITY table is described as follows:
+#The CITY table is described as follows:
 
 #City (table)
 #Field Type
